@@ -1,0 +1,15 @@
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.exe
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.deps.json
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.runtimeconfig.json
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.dll
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\ref\BinarySearchTree.dll
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.pdb
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.dll
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\ref\BinarySearchTree.dll
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.pdb
+C:\Users\anand\Desktop\DatastructureDemo\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.genruntimeconfig.cache
